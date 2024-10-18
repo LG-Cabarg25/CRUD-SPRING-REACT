@@ -1,0 +1,5 @@
+CREATE DATABASE crud;
+
+USE crud;
+
+SHOW TABLES;
